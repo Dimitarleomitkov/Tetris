@@ -1,0 +1,26 @@
+﻿body {
+  margin: 0;
+  padding: 0; }
+  body #gameSpace {
+    width: 360px;
+    height: 630px;
+    float: left; }
+  body #ScoreBox {
+    margin: 0 0;
+    width: 200px;
+    height: 300px;
+    background: #AF5;
+    float: left;
+    border-top: 1px groove black;
+    border-right: 1px groove black;
+    border-bottom: 1px groove black;
+    font-size: 22px; }
+  body #mute {
+    float: left;
+    display: block;
+    margin: 0;
+    border: 1px solid black; }
+  body #wrapper {
+    width: 50%;
+    margin: 0 auto; }
+
