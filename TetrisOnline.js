@@ -2,7 +2,7 @@
 var threshold = 1000;
 var flagGrounded = 1;
 var shapeIndex = 0;
-var nextShapeIndex = Math.floor(Math.random() * (7 - 1) + 1);
+var nextShapeIndex = Math.floor(Math.random() * (8 - 1) + 1);
 var boxcoords = [];
 var color = "";
 var currentColor = "";
